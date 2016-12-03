@@ -27,3 +27,5 @@ Now again it will prompt you to play and finally, your video will start playing 
 [How to make your own build on Kodi! -EASY GUIDE](https://www.youtube.com/watch?v=SLmBuJl9214&feature=youtu.be)
 
 [Why people use Kodi. What can you do?](https://www.youtube.com/watch?v=A8dmDPPmPaA&feature=youtu.be)
+
+[GKODI - Complete Setup Guide 2016](https://www.youtube.com/watch?v=nr5Mz2Yci4c)
