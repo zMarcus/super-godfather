@@ -23,5 +23,7 @@ Now again it will prompt you to play and finally, your video will start playing 
 [raybansandfedora @ youtube](https://www.youtube.com/watch?v=3GdSsMmDCb8 "How to CAST KODI to Chromecast, Xbox One, APPLE TV or any DLNA Device For FREE")
 
 [Create Your Own Wizard Installer in Kodi](https://www.youtube.com/watch?v=UPG4n-Q9m_s&feature=youtu.be)
+
 [How to make your own build on Kodi! -EASY GUIDE](https://www.youtube.com/watch?v=SLmBuJl9214&feature=youtu.be)
+
 [Why people use Kodi. What can you do?](https://www.youtube.com/watch?v=A8dmDPPmPaA&feature=youtu.be)
