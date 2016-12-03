@@ -1,6 +1,15 @@
 # super-godfather
 Kodi App
 
+To-Do
+- 
+
+
+###Kodi Frameworks
+[kodiswift](https://github.com/Sinap/kodiswift/blob/master/docs/quickstart.rst)
+
+[PyXBMCt](http://forum.kodi.tv/showthread.php?tid=174859)
+
 
 ####The simple way
 
@@ -29,3 +38,5 @@ Now again it will prompt you to play and finally, your video will start playing 
 [Why people use Kodi. What can you do?](https://www.youtube.com/watch?v=A8dmDPPmPaA&feature=youtu.be)
 
 [GKODI - Complete Setup Guide 2016](https://www.youtube.com/watch?v=nr5Mz2Yci4c)
+
+[VPN Info](http://www.pcworld.com/article/2030763/how-and-why-to-set-up-a-vpn-today.html)
